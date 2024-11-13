@@ -1,0 +1,14 @@
+C:\Users\leoar\OneDrive\Área de Trabalho\Cursos\DIO\XP Inc. - Full Stack Developer\primeiro-projeto-dotnet\bin\Debug\net8.0\primeiro-projeto-dotnet.exe
+C:\Users\leoar\OneDrive\Área de Trabalho\Cursos\DIO\XP Inc. - Full Stack Developer\primeiro-projeto-dotnet\bin\Debug\net8.0\primeiro-projeto-dotnet.deps.json
+C:\Users\leoar\OneDrive\Área de Trabalho\Cursos\DIO\XP Inc. - Full Stack Developer\primeiro-projeto-dotnet\bin\Debug\net8.0\primeiro-projeto-dotnet.runtimeconfig.json
+C:\Users\leoar\OneDrive\Área de Trabalho\Cursos\DIO\XP Inc. - Full Stack Developer\primeiro-projeto-dotnet\bin\Debug\net8.0\primeiro-projeto-dotnet.dll
+C:\Users\leoar\OneDrive\Área de Trabalho\Cursos\DIO\XP Inc. - Full Stack Developer\primeiro-projeto-dotnet\bin\Debug\net8.0\primeiro-projeto-dotnet.pdb
+C:\Users\leoar\OneDrive\Área de Trabalho\Cursos\DIO\XP Inc. - Full Stack Developer\primeiro-projeto-dotnet\obj\Debug\net8.0\primeiro-projeto-dotnet.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\leoar\OneDrive\Área de Trabalho\Cursos\DIO\XP Inc. - Full Stack Developer\primeiro-projeto-dotnet\obj\Debug\net8.0\primeiro-projeto-dotnet.AssemblyInfoInputs.cache
+C:\Users\leoar\OneDrive\Área de Trabalho\Cursos\DIO\XP Inc. - Full Stack Developer\primeiro-projeto-dotnet\obj\Debug\net8.0\primeiro-projeto-dotnet.AssemblyInfo.cs
+C:\Users\leoar\OneDrive\Área de Trabalho\Cursos\DIO\XP Inc. - Full Stack Developer\primeiro-projeto-dotnet\obj\Debug\net8.0\primeiro-projeto-dotnet.csproj.CoreCompileInputs.cache
+C:\Users\leoar\OneDrive\Área de Trabalho\Cursos\DIO\XP Inc. - Full Stack Developer\primeiro-projeto-dotnet\obj\Debug\net8.0\primeiro-projeto-dotnet.dll
+C:\Users\leoar\OneDrive\Área de Trabalho\Cursos\DIO\XP Inc. - Full Stack Developer\primeiro-projeto-dotnet\obj\Debug\net8.0\refint\primeiro-projeto-dotnet.dll
+C:\Users\leoar\OneDrive\Área de Trabalho\Cursos\DIO\XP Inc. - Full Stack Developer\primeiro-projeto-dotnet\obj\Debug\net8.0\primeiro-projeto-dotnet.pdb
+C:\Users\leoar\OneDrive\Área de Trabalho\Cursos\DIO\XP Inc. - Full Stack Developer\primeiro-projeto-dotnet\obj\Debug\net8.0\primeiro-projeto-dotnet.genruntimeconfig.cache
+C:\Users\leoar\OneDrive\Área de Trabalho\Cursos\DIO\XP Inc. - Full Stack Developer\primeiro-projeto-dotnet\obj\Debug\net8.0\ref\primeiro-projeto-dotnet.dll
